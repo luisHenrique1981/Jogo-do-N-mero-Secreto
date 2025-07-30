@@ -12,3 +12,5 @@ Para o desenvolvimento do sistema foi utilizado:
 - CSS 
 
 Além disso, também foi utilizado algumas bibliotecas para funcionalidades extras, como a "Math.random", para gerar o número aleatório, e a "SpeechSynthesis", que lê os textos que aparecem na tela para auxilar os usuários com alguma deficiência visual, trazendo um pouco de acessibilidade.
+
+<img src="https://github.com/user-attachments/assets/d5471ea5-c03d-4747-9957-c21de9e5a282"/>
